@@ -53,7 +53,7 @@ while True:
         print("Invalid Input!! Please Try Again")
 
 
-#Refer attached vedio for explanation
+#Refer attached video for explanation
 
 
 
